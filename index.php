@@ -1,0 +1,6 @@
+  
+<?
+
+echo "Stg WebApp";
+
+?>
